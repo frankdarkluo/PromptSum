@@ -1,0 +1,8 @@
+torch
+bert_score
+transformers
+sentencepiece
+nltk
+numpy
+rouge_score
+absl-py
